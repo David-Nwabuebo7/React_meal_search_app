@@ -1,4 +1,4 @@
-##Meal Search Application
+#Meal Search Application
 
 A **Meal Search Application** built using **React**. This frontend project integrates with an external API to search for meals, displays detailed information, and allows users to save their favorite meals using localStorage.
 

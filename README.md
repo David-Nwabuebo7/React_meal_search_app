@@ -4,7 +4,7 @@ A **Meal Search Application** built using **React**. This frontend project integ
 
 ---
 
-##Features
+# Features
 
 - **Search for Meals**: Find meals by name or ingredients using an API.
 - **Meal Details**: View detailed information about each meal, including ingredients and preparation instructions.
@@ -13,7 +13,7 @@ A **Meal Search Application** built using **React**. This frontend project integ
 
 ---
 
-##Installation
+# Installation
 
 1. **Clone the repository**:
    ```bash
@@ -35,7 +35,7 @@ A **Meal Search Application** built using **React**. This frontend project integ
 
 ---
 
-##Usage
+# Usage
 
 1. **Search for Meals**:
    - Use the search bar to enter a meal name or ingredient.
@@ -53,7 +53,7 @@ A **Meal Search Application** built using **React**. This frontend project integ
 
 ---
 
-##API
+# API
 
 This application uses an external API to fetch meal data. Example API endpoint:
 - [TheMealDB API](https://www.themealdb.com/api.php)
@@ -64,7 +64,7 @@ Key Endpoints:
 
 ---
 
-##Project Structure
+# Project Structure
 
 ```
 /meal-search
@@ -82,7 +82,7 @@ Key Endpoints:
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - **React**: Frontend framework.
 - **Axios/Fetch API**: For making API calls.
@@ -91,7 +91,7 @@ Key Endpoints:
 
 ---
 
-## Contribution
+# Contribution
 
 Contributions are welcome! If you have ideas for new features or improvements, feel free to submit a pull request.
 
@@ -103,13 +103,13 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 ---
 
-## License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-## Acknowledgements
+# Acknowledgements
 
 - [TheMealDB API](https://www.themealdb.com/api.php) for meal data.
 - [React](https://reactjs.org/) for the frontend framework.
